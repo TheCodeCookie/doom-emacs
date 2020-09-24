@@ -1,0 +1,10 @@
+#+TAGS: elfeed linux emacs news programming cs podcasts blogs entertainment misc
+
+* Blogs :elfeed:blogs:
+** linux :linux:
+*** https://lukesmith.xyz/rss.xml
+*** Emacs :emacs:
+**** entry-title: \(emacs\|org-mode\)
+* Podcasts :podcasts:elfeed:
+** linux :linux:
+*** https://notrelated.xyz/rss

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: otime
+# key: otime
+# --
+`(format-time-string "%I:%M %p")`
